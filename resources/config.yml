@@ -1,0 +1,3 @@
+# {player} = joueur
+joinmsg: "§a - {player}"
+leavemsg: "§m - {player}"
